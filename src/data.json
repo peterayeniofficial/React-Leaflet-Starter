@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      
+        "name": "Camberwell College of Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -360.08029460906977,
+          51.47421967407655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7d7d7d",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "King's College London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -360.0892639160156,
+          51.46983565499583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7d7d7d",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "Southwark College"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -360.0858736038208,
+          51.47817562234123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7d7d7d",
+        "marker-size": "medium",
+        "marker-symbol": "school",
+        "name": "King's College London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -360.09634494781494,
+          51.468632649271804
+        ]
+      }
+    }
+  ]
+}
